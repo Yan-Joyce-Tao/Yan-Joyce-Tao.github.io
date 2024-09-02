@@ -13,14 +13,14 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=YC4m7x4AAAAJ&hl=zh-TW
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: TODO
 github_link: https://github.com/Yan-Joyce-Tao
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+linkedin: TODO
+twitter: https://twitter.com/yan_ytyt
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/profile_photo.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
