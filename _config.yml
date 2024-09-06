@@ -13,9 +13,9 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=YC4m7x4AAAAJ&hl=zh-TW
-cv_link: TODO
+# cv_link: TODO
 github_link: https://github.com/Yan-Joyce-Tao
-linkedin: TODO
+# linkedin: TODO
 twitter: https://twitter.com/yan_ytyt
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -38,7 +38,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
