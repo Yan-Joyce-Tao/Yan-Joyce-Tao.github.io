@@ -10,13 +10,13 @@ I study the use of AI in education, with a particular focus on educators' perspe
 Before coming to Cornell, I earned my Master of Science in Education from the [University of Pennsylvania](https://www.upenn.edu/), where I had the honor of being advised by [Prof. Ryan S. Baker](https://learninganalytics.upenn.edu/ryanbaker/).
 
 
-## News
-
-## - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-## - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-## - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-## - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+# ## News
+# 
+# ## - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+# ## - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+# ## - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
+# ## - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+# 
+#  {% include_relative _includes/publications.md %}
+# 
+#  {% include_relative _includes/services.md %}
