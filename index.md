@@ -6,7 +6,7 @@ layout: homepage
 
 Hello! I am a Ph.D. student in [Information Science](https://infosci.cornell.edu/) at Cornell University, working with [Prof. René F. Kizilcec](https://rene.kizilcec.com/) in the [Future of Learning Lab](https://learning.cis.cornell.edu/). My research sits at the intersection of education, data science, and human-computer interaction. I study technology use in education with a specific focus on **understanding and supporting educators**, in both K-12 and higher education contexts. Currently, I study 1) how educational technologies can provide actionable data analytics to inform teaching practices, 2) how educators respond to the integration of these tools (especially AI tools) into their relationships and interactions with students, and 3) how to better design these tools to support educators' day-to-day teaching. Before coming to Cornell, I earned my Master of Science in Education from the [University of Pennsylvania](https://www.upenn.edu/), where I had the honor of being advised by [Prof. Ryan S. Baker](https://learninganalytics.upenn.edu/ryanbaker/).
 
-**Technical Skills.** I’m skilled in data analytics using R and have experience with algorithm audits and text analysis in Python. I also have a background in C from an undergraduate course, though I’m currently less active in it. Additionally, I’ve worked with SQL and SPSS.
+**Technical Skills.** I'm skilled in data analytics using R, and have experience using Python for large language model (LLM) algorithm auditing. I also have a background in C from a rigorous undergraduate course, though I'm currently less active with it. Additionally, I've worked with SQL and SPSS.
 
 ## News
 
