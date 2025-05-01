@@ -12,6 +12,6 @@ Before coming to Cornell, I earned my Master of Science in Education from the [U
 
 ## News
 
-**Apr, 2025** "Investigating systematic variation in academic procrastination behavior by course, assignment, and student characteristics" has been accepted to [Learning \@ Scale 2025](https://learningatscale.acm.org/las2025/)! See you in Palermo in July!
+**Apr, 2025** "Investigating systematic variation in academic procrastination behavior by course, assignment, and student characteristics" has been accepted to [Learning @ Scale 2025](https://learningatscale.acm.org/las2025/)! See you in Palermo in July!
 
 **Sep, 2024** "Cultural bias and cultural alignment of large language models" has been accepted to PNAS Nexus. Check out the [Cornell news](https://news.cornell.edu/stories/2024/09/reducing-cultural-bias-ai-one-sentence) and the [full paper](https://doi.org/10.1093/pnasnexus/pgae346).
