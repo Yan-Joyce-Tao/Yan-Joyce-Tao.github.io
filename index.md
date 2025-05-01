@@ -8,9 +8,7 @@ Hello! I am a Ph.D. student in [Information Science](https://infosci.cornell.edu
 
 Before coming to Cornell, I earned my Master of Science in Education from the [University of Pennsylvania](https://www.upenn.edu/), where I had the honor of being advised by [Prof. Ryan S. Baker](https://learninganalytics.upenn.edu/ryanbaker/).
 
-**Technical Skills**
-
-I’m skilled in data analytics using R and have experience with algorithm audits and text analysis in Python. I also have a background in C from an undergraduate course, though I’m currently less active in it. Additionally, I’ve worked with SQL and SPSS.
+**Technical Skills** I’m skilled in data analytics using R and have experience with algorithm audits and text analysis in Python. I also have a background in C from an undergraduate course, though I’m currently less active in it. Additionally, I’ve worked with SQL and SPSS.
 
 ## News
 
