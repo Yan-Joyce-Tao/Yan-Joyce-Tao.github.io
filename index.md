@@ -10,6 +10,6 @@ Hello! I am a Ph.D. student in [Information Science](https://infosci.cornell.edu
 
 ## News
 
-**Apr, 2025** "Investigating systematic variation in academic procrastination behavior by course, assignment, and student characteristics" has been accepted to [Learning @ Scale 2025](https://learningatscale.acm.org/las2025/)! See you in Palermo in July!
+**Apr, 2025** "Investigating Systematic Variation in Academic Procrastination Behavior by Course, Assignment, and Student Characteristics" has been accepted to [Learning @ Scale 2025](https://learningatscale.acm.org/las2025/)! See you in Palermo in July!
 
-**Sep, 2024** "Cultural bias and cultural alignment of large language models" has been accepted to PNAS Nexus. Check out the [Cornell news](https://news.cornell.edu/stories/2024/09/reducing-cultural-bias-ai-one-sentence) and the [full paper](https://doi.org/10.1093/pnasnexus/pgae346).
+**Sep, 2024** "Cultural Bias and Cultural Alignment of Large Language Models" has been accepted to PNAS Nexus. Check out the [Cornell news](https://news.cornell.edu/stories/2024/09/reducing-cultural-bias-ai-one-sentence) and the [full paper](https://doi.org/10.1093/pnasnexus/pgae346).
