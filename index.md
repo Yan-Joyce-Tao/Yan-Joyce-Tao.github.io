@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am a Ph.D. candidate in [Information Science](https://infosci.cornell.edu/) at Cornell University, working with [Prof. René F. Kizilcec](https://rene.kizilcec.com/) in the [Future of Learning Lab](https://learning.cis.cornell.edu/). My research sits at the intersection of education, data science, and human-computer interaction. I explore how technology is used in educational settings, with a specific focus on **understanding and supporting educators** in both K-12 and higher education contexts. Currently, my work investigates
+Hello! I am a Ph.D. student in [Information Science](https://infosci.cornell.edu/) at Cornell University, working with [Prof. René F. Kizilcec](https://rene.kizilcec.com/) in the [Future of Learning Lab](https://learning.cis.cornell.edu/). My research sits at the intersection of education, data science, and human-computer interaction. I explore how technology is used in educational settings, with a specific focus on **understanding and supporting educators** in both K-12 and higher education contexts. Currently, my work investigates
 
 -   what challenges and dilemmas educators face when integrating educational technologies into their classrooms, such as how generative AI raises new questions about assessment validity, and
 
