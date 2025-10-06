@@ -14,7 +14,7 @@ Before coming to Cornell, I earned my Master of Science in Education from the [U
 
 ## News
 
-**July, 2025** I’ve officially submitted my dissertation proposal and advanced to Ph.D. candidacy! In the next stage of my research, I’ll be working closely with instructors to explore how they are redesigning assessments in response to the opportunities and challenges introduced by Generative AI.
+**July, 2025** I’ve officially submitted my dissertation proposal and advanced to Ph.D. candidacy! In the next stage of my research, I’ll be working closely with instructors to explore how they are redesigning assessments in response to the opportunities and challenges introduced by generative AI.
 
 **Apr, 2025** ["Investigating Systematic Variation in Academic Procrastination Behavior by Course, Assignment, and Student Characteristics"](https://dl.acm.org/doi/abs/10.1145/3698205.3729552) has been accepted to [Learning @ Scale 2025](https://learningatscale.acm.org/las2025/)! See you in Palermo in July!
 
