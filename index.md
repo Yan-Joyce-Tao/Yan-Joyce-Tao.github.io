@@ -4,11 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hello! I am a Ph.D. student in [Information Science](https://infosci.cornell.edu/) at Cornell University, working with [Prof. René F. Kizilcec](https://rene.kizilcec.com/) in the [Future of Learning Lab](https://learning.cis.cornell.edu/). My research sits at the intersection of education, data science, and human-computer interaction. I explore how technology is (and should be) used in educational settings, with a specific focus on understanding and supporting educators' decisions in instructional design using mixed methods. Currently, my work involves
+Hello! I am a Ph.D. student in [Information Science](https://infosci.cornell.edu/) at Cornell University, working with [Prof. René F. Kizilcec](https://rene.kizilcec.com/) in the [Future of Learning Lab](https://learning.cis.cornell.edu/). My research sits at the intersection of education, data science, and human-computer interaction. I explore how technology is (and should be) used in educational settings, with a specific focus on supporting educators' decisions in instructional design using mixed methods. Currently, my work involves
 
 -   **Understanding instructors’ practices:** I use qualitative methods, such as interviews, to explore how educators integrate educational technologies into their classrooms. I pay particular attention to the challenges and dilemmas they encounter. For example, as generative AI introduces new forms of cognitive offloading, I examine how instructors redesign assessments and establish guidelines that leverage AI’s potential while maintaining assessment validity and academic integrity.
 
--   **Supporting data-informed decision-making:** I develop actionable data analytics to help educators better understand student learning behaviors (e.g., procrastination in assignment completion, help-seeking patterns with AI tools) and inform more effective teaching and learning design.
+-   **Understanding students' behaviors:** I develop actionable data analytics to help educators better understand student learning behaviors (e.g., procrastination in assignment completion, help-seeking patterns with AI tools) and inform more effective teaching and learning design.
+
+-   **Understanding technologies' affordances and limitations:** I conduct auditing studies on large language models’ social, cultural, and pedagogical alignment with humans. My goal is to examine implications -- such as cultural values, linguistic alignment in language-learning chatbots, and tutoring strategies in LLM-supported tutors -- to provide insights that help instructors make technology-aware decisions when integrating AI tools into teaching and learning.
 
 Before coming to Cornell, I earned my Master of Science in Education from the [University of Pennsylvania](https://www.upenn.edu/), where I had the honor of being advised by [Prof. Ryan S. Baker](https://learninganalytics.upenn.edu/ryanbaker/).
 
